@@ -1,2 +1,3 @@
 # CreativeCircles
-Creative Drawing Circles
+Creative Drawing Circles in Jetpack Compose
+
