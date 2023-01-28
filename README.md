@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to Creative Circles Android App👋</h1>
 <h2 align="center"> Creative Design pattern based on mathematical formulations.</h2>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33326079/138617338-1d62c71e-0c42-47b3-9049-4124d1857368.png" height="300" width="300" >
-	</p>
 
 ## ✨ Screenshots
 <p align="center">
